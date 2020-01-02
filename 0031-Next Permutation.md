@@ -5,7 +5,7 @@
 空间复杂度：O(n)  
 # 法二：一遍扫描法
 官方解释我看了很久都没明白，这个动图一出现，立刻就明白了。  
-![法二](https://leetcode.com/media/original_images/31_Next_Permutation.gif)  
+[动图请点击此处](https://leetcode.com/media/original_images/31_Next_Permutation.gif)  
 这个题我认为关键就在于明白怎么调整才是刚好大一点，整个逻辑要疏通。  
 ```java
 class Solution {
