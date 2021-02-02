@@ -44,7 +44,7 @@ class Solution {
 ```
 时间复杂度：o(n)  
 空间复杂度：o(n)
-## 法二：
+## 法二：迭代法
 ```java
 class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
